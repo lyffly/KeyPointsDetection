@@ -11,13 +11,15 @@
 
 标注数据类似下面，512x512 pixel
 
-![](images/data1.png)
+![图片1](images/data1.png)
 
-![](images\data2.png)
+图片2
+
+![图片2](images\data2.png)
 
 增加上2D高斯  点云 的Heatmap图如下
 
-![](images\card_keypoints.png)
+![热点图](images\card_keypoints.png)
 
 #### 0x01 训练
 
@@ -25,14 +27,16 @@
 
 基本结构如下，漏斗式结构
 
-![](images\hour.png)
+![网络结构图](images\hour.png)
 
 #### 0x02 结果
 
 下图左侧为检测到的四个点的heatmap，右侧为加上原图的效果，可以看到效果还不错～
 
-![](images\result1.png)
+结果图例1
 
+![结果1图](images\result1.png)
 
+结果图例2
 
-![](images\result2.png)
+![结果2图](images\result2.png)
