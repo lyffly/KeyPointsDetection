@@ -1,7 +1,7 @@
 # KeyPointsDetection 关键点识别网络
 程序编写与测试：刘云飞
 
-框架：PyTorch 1.3
+框架：PyTorch 1.2.0
 
 语言：Python 3.7
 

@@ -18,11 +18,11 @@ config['weight_decay'] = 1e-4
 config['epoch_num'] = 100
 config['batch_size'] = 40
 config['sigma'] = 5.0
-config['debug_vis'] = False         # 是否可视化heatmaps
-#config['fname'] = 'data/test.csv'
+config['debug_vis'] = False 
+
 config['fname'] = 'images_kp/'
 config['is_test'] = False
-#config['is_test'] = True
+
 config['save_freq'] = 10
 config['checkout'] = 'kd_epoch_429_model.ckpt'
 config['start_epoch'] = 429
