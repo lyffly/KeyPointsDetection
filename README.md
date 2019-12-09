@@ -15,11 +15,11 @@
 
 标注数据类似下面，512x512 pixel
 
-![图片1](images/data1.png)
+<img src="images/data1.png" alt="图片1" style="zoom:50%;" />
 
 图片2
 
-![图片2](images/data2.png)
+<img src="images/data2.png" alt="图片2" style="zoom:50%;" />
 
 增加上2D高斯  点云 的Heatmap图如下
 
